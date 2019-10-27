@@ -1,5 +1,3 @@
-package questgame;
-
 public class Treasure implements GameObject {
   @Override
   public String feedback() {

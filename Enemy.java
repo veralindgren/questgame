@@ -1,5 +1,3 @@
-package questgame;
-
 public class Enemy implements GameObject {
   @Override
   public String feedback() {

@@ -1,5 +1,3 @@
-package questgame;
-
 public class Tree extends BasicObject {
   @Override
   public String feedback() {

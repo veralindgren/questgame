@@ -1,5 +1,3 @@
-package questgame;
-
 public class Grass extends BasicObject {
   @Override
   public String feedback() {

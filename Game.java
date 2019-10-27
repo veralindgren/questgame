@@ -1,5 +1,3 @@
-package questgame;
-
 import java.util.HashMap;
 import java.util.Map;
 
